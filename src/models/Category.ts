@@ -1,4 +1,4 @@
-enum Category {
+import enum Category {
     Electronics,
     Accesories,
     Book,
